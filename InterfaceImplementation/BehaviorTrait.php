@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 require_once __DIR__ . '/NestedTrait.php';
 
-trait CoolTrait
+trait BehaviorTrait
 {
     use NestedTrait;
 }
